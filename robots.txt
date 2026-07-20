@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DKarulin.github.io/readme-1xrg9h/sitemap.xml
